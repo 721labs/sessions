@@ -1,2 +1,2 @@
-# permissions
+# Gateway
 Permissions Gateway for token-based access to Web2 services
