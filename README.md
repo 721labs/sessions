@@ -12,7 +12,7 @@ nvm use
 # 2. Install dependencies
 yarn
 # 3. Create env file
-cp sample.env >> .env
+cp sample.env .env
 # 4. Migrate the database
 npx prisma migrate dev --name init
 # 5. Run the web app
